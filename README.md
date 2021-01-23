@@ -1,2 +1,2 @@
 # VNEngine  
-## VNEngine is a C++ library for developing visual novel games.
+## VNEngine is a visual novel engine.
